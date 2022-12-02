@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CharacterKtTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-12-02T20:02:18" hostname="DESKTOP-FRO9O26" time="0.034">
+  <properties/>
+  <testcase name="First army wins with Knights " classname="CharacterKtTest" time="0.026"/>
+  <testcase name="First army wins" classname="CharacterKtTest" time="0.001"/>
+  <testcase name="Second army wins for third time" classname="CharacterKtTest" time="0.001"/>
+  <testcase name="Warrior cannot fight after he is dead" classname="CharacterKtTest" time="0.0"/>
+  <testcase name="Second army wins again" classname="CharacterKtTest" time="0.001"/>
+  <testcase name="First one hit, first one wins " classname="CharacterKtTest" time="0.001"/>
+  <testcase name="Knight wins after fighting another knight" classname="CharacterKtTest" time="0.0"/>
+  <testcase name="First warrior wins against second warrior" classname="CharacterKtTest" time="0.0"/>
+  <testcase name="Second army wins" classname="CharacterKtTest" time="0.001"/>
+  <testcase name="Warrior loses when fights against Knight" classname="CharacterKtTest" time="0.0"/>
+  <testcase name="Knight dies after more than one battle" classname="CharacterKtTest" time="0.0"/>
+  <testcase name="First army wins " classname="CharacterKtTest" time="0.002"/>
+  <testcase name="Second warrior dies after loosing" classname="CharacterKtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
