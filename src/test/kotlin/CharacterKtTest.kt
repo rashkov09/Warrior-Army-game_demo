@@ -166,6 +166,7 @@ internal class CharacterKtTest {
         // then
         assertEquals(true, res)
     }
+
     @Test
     @DisplayName("12. Battle")
     fun `First one hit, first one wins `() {
